@@ -1,17 +1,50 @@
-# USER.md - About Your Human
+# USER.md - 关于你的用户
 
-_Learn about the person you're helping. Update this as you go._
+## 基本信息
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+- **Name**: 唐志恒
+- **What to call them**: 志恒
+- **Pronouns**: 他
+- **Timezone**: Asia/Shanghai (北京时间)
 
-## Context
+## 职业背景
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+**私募投资经理**
+- **一级市场**：关注具身智能、前沿科技、人工智能等方向
+- **二级市场**：关注AI硬件，包括：
+  - 台积电 (TSMC)
+  - 芯片
+  - 存储
+  - 光模块
+  - 核电
+  - 封装
+  - 其他先进方向
+
+## 兴趣爱好
+
+- **运动**: 羽毛球
+- **赛车**: F1
+- **科技**: 智能硬件（各种前沿好玩的电子产品）
+
+## 账户信息
+
+- **GitHub**: petertangzh-arch
+- **仓库**: https://github.com/petertangzh-arch/first-.git
+- **Wind账号**: 有（但API太贵）
+- **Tushare token**: 88c357c1a1dbdca5417e60533831f987f92f5d0118f6594825b23d42
+
+## 项目状态
+
+- 财经数据自动抓取系统搭建中
+- 等Tushare积分到1000后可用日线行情
+- GitHub自动备份已配置
+
+## 沟通风格偏好
+
+- 喜欢深度思考、专业建议
+- 不喜欢盲目迎合
+- 注重系统化和自动化
 
 ---
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+*最后更新: 2026-03-08*
