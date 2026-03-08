@@ -1,0 +1,18 @@
+# 排除文件
+.DS_Store
+*.log
+node_modules/
+.env
+*.pyc
+__pycache__/
+*.csv
+data/
+finance/
+dashboard/
+*.html
+*.png
+*.jpg
+*.gif
+
+# OpenClaw系统文件（可选备份）
+.openclaw/
